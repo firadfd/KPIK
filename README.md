@@ -21,25 +21,16 @@ also, some other features are available in this application.
 - Admin Application
 
 
+
 ## Screenshots
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/1.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/2.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/3.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/4.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/5.jpg)
-
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/8.jpg)
+![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik.jpg)
 
 ## ********** Admin Application ***********
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/admin/6.jpg)
+![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik_admin.jpg)
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik/admin/7.jpg)
+
 
 ## Authors
 - [@Firad Fd](https://www.github.com/firadfd)
