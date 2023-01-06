@@ -24,11 +24,11 @@ also, some other features are available in this application.
 
 ## Screenshots
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik.jpg)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/app-screenshot-352c0.appspot.com/o/kpik.jpg?alt=media&token=085331ef-d10b-4e5b-9ef0-2960fde03966)
 
 ## ********** Admin Application ***********
 
-![App Screenshot](https://firadfd.coderexplorer.com/app_image/kpik_admin.jpg)
+![App Screenshot](https://firebasestorage.googleapis.com/v0/b/app-screenshot-352c0.appspot.com/o/kpik_admin.jpg?alt=media&token=70710ff9-7acd-4e33-b9e5-55290efca0de)
 
 
 
